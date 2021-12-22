@@ -127,6 +127,8 @@ textarea.form-control {
 
 .pt-100 {
     padding-top: 100px
+    padding-bottom: 60px;
+}
 }
 
 .ptb-100 {
@@ -1352,7 +1354,7 @@ textarea.form-control {
 }
 
 .our-histry-area {
-    padding-bottom: 152px
+    padding-bottom: 60px
 }
 
 .our-histry-area .history-title img {
@@ -3260,7 +3262,8 @@ h2 span {
 }
 
 .single-speacial-Offers .menu-img {
-    position: relative
+    position: relative;
+    text-align: center
 }
 
 .single-speacial-Offers .menu-img .price {
