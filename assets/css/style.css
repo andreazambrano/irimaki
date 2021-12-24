@@ -4,7 +4,7 @@
     font-size: 14px;
     line-height: 1.8;
     font-family: barlow,sans-serif;
-    color: #666;
+    color: #666
 }
 
 a {
@@ -127,8 +127,6 @@ textarea.form-control {
 
 .pt-100 {
     padding-top: 100px
-    padding-bottom: 60px;
-}
 }
 
 .ptb-100 {
@@ -653,29 +651,29 @@ textarea.form-control {
     color: #f16d07
 }
 
-.IRIMAKI-nav .main-nav {
+.asahi-nav .main-nav {
     background-color: transparent;
     padding: 0
 }
 
-.IRIMAKI-nav .main-nav .navbar-brand {
+.asahi-nav .main-nav .navbar-brand {
     line-height: 1
 }
 
-.IRIMAKI-nav .main-nav nav {
+.asahi-nav .main-nav nav {
     border-bottom: 1px solid #1b1b1b;
     padding: 0
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item {
+.asahi-nav .main-nav nav .nav-item {
     padding: 30px 0
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item a {
+.asahi-nav .main-nav nav .nav-item a {
     font-size: 14px
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item a.active {
+.asahi-nav .main-nav nav .nav-item a.active {
     text-transform: uppercase;
     background: -webkit-gradient(linear,left top,right top,from(#eb883b),to(#f26900));
     background: linear-gradient(to right,#eb883b 0%,#f26900 100%);
@@ -684,26 +682,26 @@ textarea.form-control {
     font-weight: 700
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item a.active::after {
+.asahi-nav .main-nav nav .nav-item a.active::after {
     -webkit-text-fill-color: #f26900
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item a:focus {
+.asahi-nav .main-nav nav .nav-item a:focus {
     color: #f16d07
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item:hover a {
+.asahi-nav .main-nav nav .nav-item:hover a {
     color: #f16d07
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item .dropdown-menu {
+.asahi-nav .main-nav nav .nav-item .dropdown-menu {
     background-color: #1b1b1b;
     border-radius: 0;
     border-top: 1px solid #f16d07;
     padding: 7px 0
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item .dropdown-menu li a {
+.asahi-nav .main-nav nav .nav-item .dropdown-menu li a {
     font-size: 14px;
     font-weight: 400;
     padding: 5px 15px;
@@ -711,21 +709,21 @@ textarea.form-control {
     transition: all ease .5s
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item .dropdown-menu li a.active {
+.asahi-nav .main-nav nav .nav-item .dropdown-menu li a.active {
     color: #f16d07;
     font-weight: 600
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item .dropdown-menu li a:hover {
+.asahi-nav .main-nav nav .nav-item .dropdown-menu li a:hover {
     color: #f16d07;
     margin-left: 4px
 }
 
-.IRIMAKI-nav .main-nav nav .nav-item .dropdown-menu li a:focus {
+.asahi-nav .main-nav nav .nav-item .dropdown-menu li a:focus {
     color: #f16d07
 }
 
-.IRIMAKI-nav .main-nav .dropdown-toggle::after {
+.asahi-nav .main-nav .dropdown-toggle::after {
     display: inline-block;
     width: 0;
     height: 0;
@@ -740,11 +738,11 @@ textarea.form-control {
     font-size: 18px
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn {
+.asahi-nav .main-nav .others-option .menu-btn {
     display: inline-block
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.book-table {
+.asahi-nav .main-nav .others-option .menu-btn.book-table {
     background: -webkit-gradient(linear,left top,right top,from(#eb883b),to(#f26900));
     background: linear-gradient(to right,#eb883b,#f26900);
     padding: 7px 15px;
@@ -754,7 +752,7 @@ textarea.form-control {
     font-weight: 500
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.book-table i {
+.asahi-nav .main-nav .others-option .menu-btn.book-table i {
     background-color: #f48c3d;
     display: inline-block;
     width: 20px;
@@ -768,7 +766,7 @@ textarea.form-control {
     margin-left: 7px
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.cart-icon {
+.asahi-nav .main-nav .others-option .menu-btn.cart-icon {
     color: #fff;
     font-size: 15px;
     background-color: #3c3c3c;
@@ -782,22 +780,22 @@ textarea.form-control {
     top: 2px
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.cart-icon:hover {
+.asahi-nav .main-nav .others-option .menu-btn.cart-icon:hover {
     color: #f16d07;
     background-color: #fff
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.contact-number {
+.asahi-nav .main-nav .others-option .menu-btn.contact-number {
     font-weight: 600;
     font-size: 16px;
-    color: #7f675f;
+    color: #3c3c3c;
     padding-right: 15px;
     padding-left: 5px;
     position: relative;
-    top: 0
+    top: 0;
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.contact-number i {
+.asahi-nav .main-nav .others-option .menu-btn.contact-number i {
     color: #fff;
     font-size: 15px;
     background-color: #3c3c3c;
@@ -812,30 +810,30 @@ textarea.form-control {
     transition: all .5s
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.contact-number:hover {
+.asahi-nav .main-nav .others-option .menu-btn.contact-number:hover {
     color: #f16d07
 }
 
-.IRIMAKI-nav .main-nav .others-option .menu-btn.contact-number:hover i {
+.asahi-nav .main-nav .others-option .menu-btn.contact-number:hover i {
     color: #f16d07;
     background-color: #fff
 }
 
-.IRIMAKI-nav .main-nav .navbar.is-sticky {
+.asahi-nav .main-nav .navbar.is-sticky {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     margin: auto;
     z-index: 999;
-    background-color: #f8d8b8;
+    background-color: #1b1b1b;
     -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,.4);
     box-shadow: 0 8px 6px -6px rgba(0,0,0,.4);
     -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-transition: all .5s;
     transition: all .5s;
-    width: 100%!important;
+    width: 100%!important
 }
 
 .banner-area {
@@ -1354,7 +1352,7 @@ textarea.form-control {
 }
 
 .our-histry-area {
-    padding-bottom: 60px
+    padding-bottom: 152px
 }
 
 .our-histry-area .history-title img {
@@ -2531,11 +2529,11 @@ h2 span {
     text-transform: capitalize
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two {
+.asahi-nav .main-nav.asahi-nav-style-two {
     position: relative
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two::before {
+.asahi-nav .main-nav.asahi-nav-style-two::before {
     content: "";
     position: absolute;
     top: 0;
@@ -2548,15 +2546,15 @@ h2 span {
     margin: auto
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two nav {
+.asahi-nav .main-nav.asahi-nav-style-two nav {
     border-bottom: none
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two .others-option .menu-btn {
+.asahi-nav .main-nav.asahi-nav-style-two .others-option .menu-btn {
     display: inline-block
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two .others-option .menu-btn.side-menu {
+.asahi-nav .main-nav.asahi-nav-style-two .others-option .menu-btn.side-menu {
     background: -webkit-gradient(linear,left top,right top,from(#eb883b),to(#f26900));
     background: linear-gradient(to right,#eb883b,#f26900);
     padding: 7px 20px;
@@ -2566,18 +2564,18 @@ h2 span {
     font-weight: 500
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two .others-option .menu-btn.side-menu i {
+.asahi-nav .main-nav.asahi-nav-style-two .others-option .menu-btn.side-menu i {
     margin-left: 7px
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two .others-option .menu-btn.cart-icon {
+.asahi-nav .main-nav.asahi-nav-style-two .others-option .menu-btn.cart-icon {
     background-color: #3c3c3c;
     margin-right: 20px;
     position: relative;
     top: 2px
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-two .others-option .menu-btn.cart-icon:hover {
+.asahi-nav .main-nav.asahi-nav-style-two .others-option .menu-btn.cart-icon:hover {
     color: #f16d07;
     background-color: #fff
 }
@@ -3079,37 +3077,37 @@ h2 span {
     font-weight: 700
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three {
     margin-top: 20px
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three::before {
-    background-color: beige;
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three::before {
+    background-color: #15171a;
     opacity: 1
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three nav {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three nav {
     border-bottom: none
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three nav .nav-item {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three nav .nav-item {
     padding: 30px 0
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three nav .nav-item .dropdown-menu li {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three nav .nav-item .dropdown-menu li {
     padding: 5px 0;
     line-height: 1
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three .is-sticky {
-    background-color: beige
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three .is-sticky {
+    background-color: #15171a
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three .others-option {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three .others-option {
     margin-left: 0
 }
 
-.IRIMAKI-nav .main-nav.IRIMAKI-nav-style-three.IRIMAKI-nav-style-three .others-option .contact-number i {
+.asahi-nav .main-nav.asahi-nav-style-three.asahi-nav-style-three .others-option .contact-number i {
     background-color: #2b272f
 }
 
@@ -3262,8 +3260,7 @@ h2 span {
 }
 
 .single-speacial-Offers .menu-img {
-    position: relative;
-    text-align: center
+    position: relative
 }
 
 .single-speacial-Offers .menu-img .price {
